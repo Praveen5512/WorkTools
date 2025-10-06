@@ -21,6 +21,10 @@ tr:nth-child(2){
     cursor:crosshair !important;
 }
 
+table{
+    height:60vh;
+    overflow-y:auto;
+}
 
 body {
       font-family: Arial, sans-serif;
@@ -79,4 +83,5 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
+
     }

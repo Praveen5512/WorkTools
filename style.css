@@ -14,7 +14,7 @@ th{
     border: solid 1px black;
     text-align: center;
 }
-tr:nth-child(2){
+tr:nth-child(2n){
     background-color: grey;
 }
 .navLink:hover{
@@ -85,3 +85,4 @@ body {
         justify-content: center;
 
     }
+
